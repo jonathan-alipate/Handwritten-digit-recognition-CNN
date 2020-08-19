@@ -138,3 +138,4 @@ function getModel() {
             callbacks: fitCallbacks
         });
     }
+}
