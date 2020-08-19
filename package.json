@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/jonathan-alipate/Handwritten-digit-recognition-CNN#readme",
   "dependencies": {
+    "@tensorflow/tfjs": "^2.3.0",
+    "@tensorflow/tfjs-vis": "^1.4.3",
     "express": "^4.17.1"
   },
   "devDependencies": {
